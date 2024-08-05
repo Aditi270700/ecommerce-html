@@ -3,7 +3,16 @@ h2 {
   color: black;
 }
 .box {
+  border-style: solid;
+  border-color: black;
+}
+.first-box {
   background-color: pink;
+  color: black;
+  border-radius: 50px;
+}
+.second-box {
+  background-color: blue;
   color: black;
   border-radius: 50px;
 }
